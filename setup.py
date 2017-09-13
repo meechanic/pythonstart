@@ -9,5 +9,6 @@ setup(name='pythonstart',
   author_email='anybody@example.com',
   url='https://www.example.com',
   license="MIT",
+  scripts=['bin/teststring.py'],
   packages=['pythonstart']
 )
